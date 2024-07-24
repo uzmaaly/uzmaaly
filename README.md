@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uzmaaly
-- 👀 I’m interested in learning Python and different Data Engineering tools
-- 🌱 I’m currently learning data engineering
+- 👀 I’m interested in learning GenAI and Deep Learning
+- 🌱 I’m currently learning Data Sciences
 - 💞️ I’m looking to collaborate with like-minded and creative people
 - 📫 How to reach me: uzmasherali17@gmail.com
 
